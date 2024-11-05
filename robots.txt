@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ereleula.github.io/bKq/sitemap_index.txt
+Sitemap: https://ereleula.github.io/cYi/sitemap_index.txt
+Sitemap: https://ereleula.github.io/hVf/sitemap_index.txt
+Sitemap: https://ereleula.github.io/oyV/sitemap_index.txt
